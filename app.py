@@ -10,4 +10,4 @@ def hello_world():
 @app.route('/ok')
 def test():
 	y = abc()
-	return y
+	return "<html>i am ok</html>"
